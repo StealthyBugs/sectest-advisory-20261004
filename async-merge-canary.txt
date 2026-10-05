@@ -1,0 +1,1 @@
+Authorized synthetic async merge permission test. No real change. Marker ASYNC-MERGE-8D2F6A.
